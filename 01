@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Periodic Table</title>
+</head>
+<body>
+    <table border="2" cellpadding="2" cellspacing="0">
+        <tr>
+            <th colspan="19" bgcolor="#f0f0f0" align="centre">Periodic Table of Elements</th>
+        </tr>
+        <tr>
+            <td style="text-align: center; border: hidden;"></td>
+            <td style="text-align: center; border: hidden;">1*</td>
+            <td colspan="16" style="visibility: hidden;"></td>
+            <td style="text-align: center; border: hidden;">18</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; border: hidden;">1</td>
+            <td bgcolor="#ffb3b3">1<br><class style="margin: 15px;">H</class></td>
+            <td style="text-align: center; border: hidden;">2</td>
+            <td colspan="10" style="visibility: hidden;"></td>
+            <td style="text-align: center; border: hidden;">13</td>
+            <td style="text-align: center; border: hidden;">14</td>
+            <td style="text-align: center; border: hidden;">15</td>
+            <td style="text-align: center; border: hidden;">16</td>
+            <td style="text-align: center; border: hidden;">17</td>
+            <td bgcolor="#e6e6ff">2<br><class style="margin: 15px;">He</class></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; border: hidden;">2</td>
+            <td bgcolor="#ffcccc">3<br><class style="margin: 15px;">Li</class></td>
+            <td bgcolor="#ffdd99">4<br><class style="margin: 15px;">Be</class></td>
+            <td colspan="10" style="visibility: hidden;"></td>
+            <td bgcolor="#ffb3b3">5<br><class style="margin: 15px;">B</class></td>
+            <td bgcolor="#ffb3b3">6<br><class style="margin: 15px;">C</class></td>
+            <td bgcolor="#ffb3b3">7<br><class style="margin: 15px;">N</class></td>
+            <td bgcolor="#ffb3b3">8<br><class style="margin: 15px;">O</class></td>
+            <td bgcolor="#b3ffb3">9<br><class style="margin: 15px;">F</class></td>
+            <td bgcolor="#e6e6ff">10<br><class style="margin: 15px;">Ne</class></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; border: hidden;">3</td>
+            <td bgcolor="#ffcccc">11<br><class style="margin: 15px;">Na</class></td>
+            <td bgcolor="#ffdd99">12<br><class style="margin: 15px;">Mg</class></td>
+            <td style="text-align: center; border: hidden;">3</td>
+            <td style="text-align: center; border: hidden;">4</td>
+            <td style="text-align: center; border: hidden;">5</td>
+            <td style="text-align: center; border: hidden;">6</td>
+            <td style="text-align: center; border: hidden;">7</td>
+            <td style="text-align: center; border: hidden;">8</td>
+            <td style="text-align: center; border: hidden;">9</td>
+            <td style="text-align: center; border: hidden;">10</td>
+            <td style="text-align: center; border: hidden;">11</td>
+            <td style="text-align: center; border: hidden;">12</td>
+            <td bgcolor="#ffcc99">13<br><class style="margin: 15px;">Al</class></td>
+            <td bgcolor="#ffb3b3">14<br><class style="margin: 15px;">Si</class></td>
+            <td bgcolor="#ffb3b3">15<br><class style="margin: 15px;">P</class></td>
+            <td bgcolor="#ffb3b3">16<br><class style="margin: 15px;">S</class></td>
+            <td bgcolor="#b3ffb3">17<br><class style="margin: 15px;">Cl</class></td>
+            <td bgcolor="#e6e6ff">18<br><class style="margin: 15px;">Ar</class></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; border: hidden;">4</td>
+            <td bgcolor="#ffcccc">19<br><class style="margin: 15px;">K</class></td>
+            <td bgcolor="#ffdd99">20<br><class style="margin: 15px;">Ca</class></td>
+            <td bgcolor="#ffffcc">21<br><class style="margin: 15px;">Sc</class></td>
+            <td bgcolor="#ccccff">22<br><class style="margin: 15px;">Ti</class></td>
+            <td bgcolor="#ccccff">23<br><class style="margin: 15px;">V</class></td>
+            <td bgcolor="#ccccff">24<br><class style="margin: 15px;">Cr</class></td>
+            <td bgcolor="#ccccff">25<br><class style="margin: 15px;">Mn</class></td>
+            <td bgcolor="#ccccff">26<br><class style="margin: 15px;">Fe</class></td>
+            <td bgcolor="#ccccff">27<br><class style="margin: 15px;">Co</class></td>
+            <td bgcolor="#ccccff">28<br><class style="margin: 15px;">Ni</class></td>
+            <td bgcolor="#ccccff">29<br><class style="margin: 15px;">Cu</class></td>
+            <td bgcolor="#ccccff">30<br><class style="margin: 15px;">Zn</class></td>
+            <td bgcolor="#ffcc99">31<br><class style="margin: 15px;">Gs</class></td>
+            <td bgcolor="#ffcc99">32<br><class style="margin: 15px;">Ge</class></td>
+            <td bgcolor="#ffb3b3">33<br><class style="margin: 15px;">As</class></td>
+            <td bgcolor="#ffb3b3">34<br><class style="margin: 15px;">Se</class></td>
+            <td bgcolor="#b3ffb3">35<br><class style="margin: 15px;">Br</class></td>
+            <td bgcolor="#e6e6ff">36<br><class style="margin: 15px;">Kr</class></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; border: hidden;">5</td>
+            <td bgcolor="#ffcccc">37<br><class style="margin: 15px;">Rb</class></td>
+            <td bgcolor="#ffdd99">38<br><class style="margin: 15px;">Sr</class></td>
+            <td bgcolor="#ffffcc">39<br><class style="margin: 15px;">Y</class></td>
+            <td bgcolor="#ccccff">40<br><class style="margin: 15px;">Zr</class></td>
+            <td bgcolor="#ccccff">41<br><class style="margin: 15px;">Nb</class></td>
+            <td bgcolor="#ccccff">42<br><class style="margin: 15px;">Mo</class></td>
+            <td bgcolor="#ccccff">43<br><class style="margin: 15px;">Tc</class></td>
+            <td bgcolor="#ccccff">44<br><class style="margin: 15px;">Ru</class></td>
+            <td bgcolor="#ccccff">45<br><class style="margin: 15px;">Rh</class></td>
+            <td bgcolor="#ccccff">46<br><class style="margin: 15px;">Pd</class></td>
+            <td bgcolor="#ccccff">47<br><class style="margin: 15px;">Ag</class></td>
+            <td bgcolor="#ccccff">48<br><class style="margin: 15px;">Cd</class></td>
+            <td bgcolor="#ffcc99">49<br><class style="margin: 15px;">In</class></td>
+            <td bgcolor="#ffcc99">50<br><class style="margin: 15px;">Sn</class></td>
+            <td bgcolor="#ffcc99">51<br><class style="margin: 15px;">Sb</class></td>
+            <td bgcolor="#ffb3b3">52<br><class style="margin: 15px;">Te</class></td>
+            <td bgcolor="#b3ffb3">53<br><class style="margin: 15px;">I</class></td>
+            <td bgcolor="#e6e6ff">54<br><class style="margin: 15px;">Xe</class></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; border: hidden;">6</td>
+            <td bgcolor="#ffcccc">55<br><class style="margin: 15px;">Cs</class></td>
+            <td bgcolor="#ffdd99">56<br><class style="margin: 15px;">Ba</class></td>
+            <td bgcolor="#ffffcc">57<br><class style="margin: 15px;">La</class></td>
+            <td bgcolor="#ccccff">72<br><class style="margin: 15px;">Hf</class></td>
+            <td bgcolor="#ccccff">73<br><class style="margin: 15px;">Ta</class></td>
+            <td bgcolor="#ccccff">74<br><class style="margin: 15px;">W</class></td>
+            <td bgcolor="#ccccff">75<br><class style="margin: 15px;">Re</class></td>
+            <td bgcolor="#ccccff">76<br><class style="margin: 15px;">Os</class></td>
+            <td bgcolor="#ccccff">77<br><class style="margin: 15px;">Ir</class></td>
+            <td bgcolor="#ccccff">78<br><class style="margin: 15px;">Pt</class></td>
+            <td bgcolor="#ccccff">79<br><class style="margin: 15px;">Au</class></td>
+            <td bgcolor="#ccccff">80<br><class style="margin: 15px;">Hg</class></td>
+            <td bgcolor="#ffcc99">81<br><class style="margin: 15px;">Ti</class></td>
+            <td bgcolor="#ffcc99">82<br><class style="margin: 15px;">Pb</class></td>
+            <td bgcolor="#ffcc99">83<br><class style="margin: 15px;">Bi</class></td>
+            <td bgcolor="#ffcc99">84<br><class style="margin: 15px;">Po</class></td>
+            <td bgcolor="#b3ffb3">85<br><class style="margin: 15px;">At</class></td>
+            <td bgcolor="#e6e6ff">86<br><class style="margin: 15px;">Rn</class></td>
+        </tr>
+        <tr>
+            <td style="text-align: center; border: hidden;">7</td>
+            <td bgcolor="#ffcccc">87<br><class style="margin: 15px;">Fr</class></td>
+            <td bgcolor="#ffdd99">88<br><class style="margin: 15px;">Ra</class></td>
+            <td bgcolor="#ccffff">89<br><class style="margin: 15px;">Se</class></td>
+            <td bgcolor="#ccccff">104<br><class style="margin: 15px;">Rf</class></td>
+            <td bgcolor="#ccccff">105<br><class style="margin: 15px;">Db</class></td>
+            <td bgcolor="#ccccff">106<br><class style="margin: 15px;">Sg</class></td>
+            <td bgcolor="#ccccff">107<br><class style="margin: 15px;">Bh</class></td>
+            <td bgcolor="#ccccff">108<br><class style="margin: 15px;">Hs</class></td>
+            <td bgcolor="#ccccff">109<br><class style="margin: 15px;">Mt</class></td>
+            <td bgcolor="#ccccff">110<br><class style="margin: 15px;">Ds</class></td>
+            <td bgcolor="#ccccff">111<br><class style="margin: 15px;">Rg</class></td>
+            <td bgcolor="#ccccff">112<br><class style="margin: 15px;">Cn</class></td>
+            <td bgcolor="#ffcc99">113<br><class style="margin: 15px;">Nh</class></td>
+            <td bgcolor="#ffcc99">114<br><class style="margin: 15px;">Fl</class></td>
+            <td bgcolor="#ffcc99">115<br><class style="margin: 15px;">Mc</class></td>
+            <td bgcolor="#ffcc99">116<br><class style="margin: 15px;">Lv</class></td>
+            <td bgcolor="#b3ffb3">117<br><class style="margin: 15px;">Ts</class></td>
+            <td bgcolor="#e6e6ff">118<br><class style="margin: 15px;">Og</class></td>
+        </tr>
+    </table>
+        <br><br>
+    <table border="2" cellpadding="2" cellspacing="0">
+        <tr>
+            <td style="visibility: hidden;">0</td>
+            <td colspan="5" style="text-align: center; border: hidden;">lanthanide series</td>
+            <td style="visibility: hidden;">0</td>
+            <td style="text-align: center; border: hidden;">6</td>
+            <td bgcolor="#ffffcc">58<br><class style="margin: 15px;">Ca</class></td>
+            <td bgcolor="#ffffcc">59<br><class style="margin: 15px;">Pr</class></td>
+            <td bgcolor="#ffffcc">60<br><class style="margin: 15px;">Nd</class></td>
+            <td bgcolor="#ffffcc">61<br><class style="margin: 15px;">Pm</class></td>
+            <td bgcolor="#ffffcc">62<br><class style="margin: 15px;">Sm</class></td>
+            <td bgcolor="#ffffcc">63<br><class style="margin: 15px;">Eu</class></td>
+            <td bgcolor="#ffffcc">64<br><class style="margin: 15px;">Gd</class></td>
+            <td bgcolor="#ffffcc">65<br><class style="margin: 15px;">Tb</class></td>
+            <td bgcolor="#ffffcc">66<br><class style="margin: 15px;">Dy</class></td>
+            <td bgcolor="#ffffcc">67<br><class style="margin: 15px;">Ho</class></td>
+            <td bgcolor="#ffffcc">68<br><class style="margin: 15px;">Er</class></td>
+            <td bgcolor="#ffffcc">69<br><class style="margin: 15px;">Tm</class></td>
+            <td bgcolor="#ffffcc">70<br><class style="margin: 15px;">Yb</class></td>
+            <td bgcolor="#ffffcc">71<br><class style="margin: 15px;">Lu</class></td>
+        </tr>
+            <td style="visibility: hidden;">0</td>
+            <td colspan="5" style="text-align: center; border: hidden;">actinide series</td>
+            <td style="visibility: hidden;">0</td>
+            <td style="text-align: center; border: hidden;">7</td>
+            <td bgcolor="#ccffff">90<br><class style="margin: 15px;">Th</class></td>
+            <td bgcolor="#ccffff">91<br><class style="margin: 15px;">Pa</class></td>
+            <td bgcolor="#ccffff">92<br><class style="margin: 15px;">U</class></td>
+            <td bgcolor="#ccffff">93<br><class style="margin: 15px;">Np</class></td>
+            <td bgcolor="#ccffff">94<br><class style="margin: 15px;">Pu</class></td>
+            <td bgcolor="#ccffff">95<br><class style="margin: 15px;">Am</class></td>
+            <td bgcolor="#ccffff">96<br><class style="margin: 15px;">Cm</class></td>
+            <td bgcolor="#ccffff">97<br><class style="margin: 15px;">Bk</class></td>
+            <td bgcolor="#ccffff">98<br><class style="margin: 15px;">Cf</class></td>
+            <td bgcolor="#ccffff">99<br><class style="margin: 15px;">Es</class></td>
+            <td bgcolor="#ccffff">100<br><class style="margin: 15px;">Fm</class></td>
+            <td bgcolor="#ccffff">101<br><class style="margin: 15px;">Md</class></td>
+            <td bgcolor="#ccffff">102<br><class style="margin: 15px;">No</class></td>
+            <td bgcolor="#ccffff">103<br><class style="margin: 15px;">Lr</class></td>
+        <tr>
+    </table>        
+</body>
+</html>
